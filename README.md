@@ -1,10 +1,9 @@
 # Head First Computer Network
 
-English &nbsp; | &nbsp; [Chinese]()
+English &nbsp; | &nbsp; [Chinese](./README.zh-CN.md)
 
 
 ## Computer networks and the Internet
-
 
 
 ## Application layer

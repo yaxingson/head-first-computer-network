@@ -124,6 +124,13 @@ HTTP连接类型:
 
 HTTP报文: 请求报文和响应报文
 
+URL（统一资源定位符）的通用格式如下：
+
+```txt
+scheme://username:password@hostname:port/path?query#fragment
+
+```
+
 请求命令:
 
 |  命令   |  描述  |

@@ -176,6 +176,15 @@ telnet www.hit.edu.cn 80
 
 域名： 根域名、顶级域名和二级域名
 
+> 全限定域名（Fully Qualified Domain Name, FQDN）
+
+```sh
+ping www.baidu.com
+
+nslookup www.baidu.com
+
+```
+
 ### [DHCP]()
 
 ### [SMTP]()
@@ -185,6 +194,7 @@ telnet www.hit.edu.cn 80
 
 ### [POP3]()
 
+### [RDP]()
 
 网络应用编程(Socket套接字编程):
 
